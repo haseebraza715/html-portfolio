@@ -1,2 +1,2 @@
-# html-portfolio
-This is my first portfolio i created using HTML
+# HTML-portfolio
+This is the first portfolio I created using HTML
